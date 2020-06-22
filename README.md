@@ -1,8 +1,11 @@
 # Excel-Automation
 
 > 'automate.py' is the script of the program
-> 'data99.xlsx' is the excel file 
+
+> 'data99.xlsx' is the excel file
+
 > 'automate.exe' is the application to run 
+
 ----------------********************************------------------
 
 HOW TO USE:-
@@ -14,7 +17,6 @@ HOW TO USE:-
 6) Close the excel file (IMPORTANT)
 7) Now run the automate.exe application
 8) Now you can open the data99.xlsx file to see the responses.
-
 ________________________________________________________________________
 
 **Donot change the Meta column in the 'data99.xlsx' excel file**
